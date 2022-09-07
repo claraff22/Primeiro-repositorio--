@@ -1,0 +1,14 @@
+Olá, 
+Esse primeiro repositório é um desafio do curso de introdução ao Git e GitHub da DIO, estou participando do bootcamp SQL e NoSQL.
+
+Hoje eu sou graduanda de Física na Universidade Federal da Bahia e estou migrando para a área de tecnologia.
+Não é, de fato, o meu primeiro repositório, mas é a primeira vez que faço como faço, seguindo os comandos do curso. 
+Aprendi coisas novas, aprendi melhor como o Git e o GitHub funcionam. Alguns conceitos um pouco vagos foram consolidados com certeza. Inclusive, o que aprendi aqui me deu uma ideia do que pode estar acontecendo com outro repositório meu e como posso consertar haha. Isso com certeza é um bônus.
+Ainda não sei o que fazer com esse respositório, mas talvez eu conte um pouco do meu progresso por aqui.
+Eu espero que em um futuro próximo eu possa ter encontrado meu caminho e, de fato, esteja trabalhando na área. Aprender coisas novas é difícil e lidar com a frustação de não conseguir, de errar, sinceramente, tá sendo uma das coisas mais difíceis. Agora, tenho certeza que eu não conhecia a resiliência antes de decidir mudar de área drasticamente.
+
+Estou na expectativa, esperando ansiosamente pelo progresso.
+
+Clara,
+
+07/09/2022.
